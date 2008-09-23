@@ -1,0 +1,31 @@
+h1. RubyEvents
+
+h2. Feedback: Evan Light
+
+h3. What features would you like to see in a ruby community calendar?
+
+* Social Network of Event Attendees
+* Mailing list to regions
+* OneStop shop for publicizing events
+
+h3. Who handles your event registration?
+
+EventBrite, good event registration, not much else.
+
+h3. Notes
+
+Hardest problem was finding a venue. Specifically being able to price them.
+
+  - Bars - Ridiculous amounts expected of bar tab
+  - Hotels - They make money on the food
+  - Universities are big and bureaucratic entities (George Washington University)
+    
+    * Dragged their feet
+    * Lost weeks of planning time
+    * got jumped for an additional large fee at the end
+
+Good resources for this topic:
+
+* GoogleGroup for regional conferences
+* Jeremy McAnally - Rubyist, RubyHoedown and more
+* Joe O'Brien - EdgeCase
